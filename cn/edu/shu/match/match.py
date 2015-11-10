@@ -40,6 +40,7 @@ def invoke_algorithm(individuation=False):
             if json_data['lda']:
                 save_to_database(*get_result_from_plsa(require_id, provide_id, 'text', src='provide', dest='require'))
 
+
 if __name__ == '__main__':
     # log_config = Log_Config()
     # log_config.congif()
