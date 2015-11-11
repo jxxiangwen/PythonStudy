@@ -32,9 +32,9 @@ class DivOperation(Operation):
     def get_result(self, num1, num2):
         try:
             result = num1 / num2
-        except:
+        except ZeroDivisionError:
             return 0
-        return num1 / num2
+        return result
 
 
 class OperationFactory(object):
