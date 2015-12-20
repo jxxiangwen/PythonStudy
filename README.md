@@ -1,2 +1,3 @@
-# study
-研究生期间python学习相关
+# PythonStudy
+Python学习
+
