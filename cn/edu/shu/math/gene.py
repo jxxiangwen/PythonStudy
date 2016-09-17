@@ -307,11 +307,11 @@ class Gene(object):
             import_file.write('\n')
 
     @staticmethod
-    def get_union_from_result(result_dir='result', union_file='with_A'):
+    def get_intersection_from_result(result_dir='result', intersection_file='with_A'):
         """
         将五种算法的结果取并集
         :param result_dir: 结果所在文件夹
-        :param union_file: 5种算法交集存储文件夹
+        :param intersection_file: 5种算法交集存储文件夹
         :return:
         """
         # 最终交集后的set
@@ -333,10 +333,10 @@ class Gene(object):
                 # 交集
                 final_set = final_set.intersection(temp_set)
 
-        file_name = 'union_' + union_file + '.dot'
-        with open(file_name, 'w') as union_file:
+        file_name = 'intersection_' + intersection_file + '.dot'
+        with open(file_name, 'w') as intersection_file:
             for order_number, value in enumerate(final_set):
-                union_file.write(str(order_number) + '\t' + str(value) + '\n')
+                intersection_file.write(str(order_number) + '\t' + str(value) + '\n')
 
     @staticmethod
     def get_gene():
@@ -348,11 +348,11 @@ class Gene(object):
         final_set = set()
         import os
         file_name = 'gene_info'
-        union_name = 'union_with_A.dot'
-        with open(union_name) as union_file:
+        intersection_name = 'intersection_with_A.dot'
+        with open(intersection_name) as intersection_file:
             # 遍历交集
-            for union in union_file:
-                gene = union.strip().split('\t')[1]
+            for intersection in intersection_file:
+                gene = intersection.strip().split('\t')[1]
                 if len(gene) > 3:
                     for files in os.listdir(file_name):
                         with open(file_name + os.path.sep + files) as result_file:
@@ -364,9 +364,9 @@ class Gene(object):
                                     final_set.add(files)
                                     break
         file_name = 'gene_with_A.dot'
-        with open(file_name, 'w') as union_file:
+        with open(file_name, 'w') as intersection_file:
             for order_number, value in enumerate(final_set):
-                union_file.write(str(order_number) + '\t' + str(value) + '\n')
+                intersection_file.write(str(order_number) + '\t' + str(value) + '\n')
 
 
 if __name__ == '__main__':
@@ -383,7 +383,7 @@ if __name__ == '__main__':
     # g.get_by_recursive_feature_elimination()
     # g.get_by_stability_selection()
     # 得到算法交集
-    # Gene.get_union_from_result()
+    # Gene.get_intersection_from_result()
     # 得到第3题结果
     # Gene.get_gene()
     # 第4题处理
@@ -395,4 +395,4 @@ if __name__ == '__main__':
     #     g.get_by_stability_selection(file_name='with_' + str(index), class_result=g.multi_phenos[:, index])
     # 第4题结果取交集
     for index in range(10):
-        Gene.get_union_from_result(result_dir=str(index), union_file='with_' + str(index))
+        Gene.get_intersection_from_result(result_dir=str(index), intersection_file='with_' + str(index))
