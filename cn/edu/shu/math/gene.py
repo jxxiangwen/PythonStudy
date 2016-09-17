@@ -125,7 +125,7 @@ class Gene(object):
         """
         # 拆分训练数据与测试数据
         self.x_train, self.x_test, self.y_train, self.y_test = train_test_split(self.data_set, self.class_name,
-                                                                                test_size=0.2)
+                                                                                test_size=0.001)
         # 使用信息熵作为划分标准，对决策树进行训练
         clf = tree.DecisionTreeClassifier(criterion='entropy')
         print(clf)
@@ -179,7 +179,7 @@ class Gene(object):
         """
         # 拆分训练数据与测试数据
         self.x_train, self.x_test, self.y_train, self.y_test = train_test_split(self.data_set, self.class_name,
-                                                                                test_size=0.2)
+                                                                                test_size=0.001)
         # 使用信息熵作为划分标准，对决策树进行训练
         clf = tree.DecisionTreeClassifier()
         print(clf)
@@ -393,6 +393,6 @@ if __name__ == '__main__':
     #     g.get_by_random_forest(file_name='with_' + str(index), class_result=g.multi_phenos[:, index])
     #     #g.get_by_recursive_feature_elimination(file_name='with_' + str(index), class_result=g.multi_phenos[:, index])
     #     g.get_by_stability_selection(file_name='with_' + str(index), class_result=g.multi_phenos[:, index])
-    # 第4题结果取交集
+    # # 第4题结果取交集
     for index in range(10):
         Gene.get_intersection_from_result(result_dir=str(index), intersection_file='with_' + str(index))
