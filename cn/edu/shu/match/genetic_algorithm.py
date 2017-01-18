@@ -86,6 +86,7 @@ class GeneticAlgorithm:
         :param algorithm_type:算法类型
         :return:需求权重和服务权重
         """
+
         # 变异操作
         def mutate(weight_vector):
             print("变异前数据：%s" % weight_vector)
@@ -203,14 +204,14 @@ class GeneticAlgorithm:
 
                 return tuple((scores[0][1], scores[0][2]))
 
-    def show_data(self,line):
+    def show_data(self, line):
         """
         显示匹配度数据
         :param line: 行数
         :return:
         """
         with open('./result/score.txt', encoding='utf-8') as score_file:
-            if line <= 0 :
+            if line <= 0:
                 return
             for i in range(line):
                 result = score_file.readline().strip().split(',')
