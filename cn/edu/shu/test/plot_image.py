@@ -83,7 +83,6 @@ def degree():
     linesList4 = [(0.1, 20), (0.2, 42), (0.3, 69), (0.4, 84), (0.5, 91.6), (0.6, 95), (0.7, 97),
                   (0.8, 98), (0.9, 98.9), (1, 99)]
 
-
     print(linesList1)
     #     years1 = [string.atof(x[0]) for x in linesList1]
     years1 = [x[0] for x in linesList1]
