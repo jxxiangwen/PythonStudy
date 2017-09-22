@@ -1,0 +1,9 @@
+{
+  "default": true,
+  "require_id": [1,2,3,4,5],
+  "require_id_comment": "需求id",
+  "provide_id": [1,2,3,4,5],
+  "provide_id_comment": "服务id",
+  "match_degree": [[1,0,0,0,0],[0,1,0,0,0],[0,0,1,0,0],[0,0,0,1,0],[0,0,0,0,1]],
+  "match_degree_comment": "文档匹配状况"
+}

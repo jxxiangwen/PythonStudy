@@ -184,8 +184,8 @@ def threshold_recall():
 
 
 def degree_recall():
-    linesList1 = [(0.1, 16), (0.2, 36), (0.3, 57), (0.4, 73), (0.5, 82), (0.6, 85.9), (0.7, 82),
-                  (0.8, 73), (0.9, 62), (1, 50.5)]
+    linesList1 = [(0.1, 16), (0.2, 36), (0.3, 57), (0.4, 73), (0.5, 82), (0.6, 85.9), (0.7, 75),
+                  (0.8, 64), (0.9, 51), (1, 50.5)]
     linesList2 = [(0.1, 14), (0.2, 40), (0.3, 62), (0.4, 79), (0.5, 85), (0.6, 90.5), (0.7, 81),
                   (0.8, 70), (0.9, 54), (1, 51)]
     linesList3 = [(0.1, 17), (0.2, 37), (0.3, 67), (0.4, 75), (0.5, 89), (0.6, 94), (0.7, 84),
@@ -220,9 +220,9 @@ def degree_recall():
 
 
 if __name__ == '__main__':
-    topic_num()
-    threshold()
-    degree()
-    topic_num_recall()
-    threshold_recall()
+    # topic_num()
+    # threshold()
+    # degree()
+    # topic_num_recall()
+    # threshold_recall()
     degree_recall()

@@ -1,11 +1,11 @@
 {
-  "host": "localhost",
+  "host": "123.206.196.164",
   "host_comment": "数据库地址",
-  "user": "sa",
+  "user": "root",
   "user_comment": "数据库账号",
-  "password": "123456",
+  "password": "Gaozhi283",
   "password_comment": "数据库密码",
-  "database": "NewZhangJiang",
+  "database": "zhangjiang",
   "database_comment": "数据库名称",
   "yours": "false",
   "yours_comment": "true or false 自己的需求是否与自己服务匹配 true 可以"
