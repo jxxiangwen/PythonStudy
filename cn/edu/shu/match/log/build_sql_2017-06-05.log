@@ -1,0 +1,1 @@
+Mon, 05 Jun 2017 21:28:17 - get_text.py - [line:112] - INFO - SELECT * FROM RequireDocInfor WHERE RequireDocInfor_ID IN (1.0, 2.0, 3.0, 4.0, 5.0) AND RequireDocInfor_status IN (1, 2)
