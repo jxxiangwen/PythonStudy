@@ -3,716 +3,3644 @@
     result 1,
     data [
         {
-            phone 17010286898,
+            phone 17003635552,
             result 6
         },
         {
-            phone 17050214368,
+            phone 17006091568,
             result 6
         },
         {
-            phone 17050276946,
-            result 1
-        },
-        {
-            phone 17050329313,
-            result 1
-        },
-        {
-            phone 17052869234,
-            result 1
-        },
-        {
-            phone 17053096999,
+            phone 17010057828,
             result 6
         },
         {
-            phone 17054194677,
+            phone 17011967475,
             result 6
         },
         {
-            phone 17055576969,
+            phone 17016641380,
             result 6
         },
         {
-            phone 17055968151,
+            phone 17017301007,
             result 6
         },
         {
-            phone 17056275333,
-            result 1
-        },
-        {
-            phone 17056970040,
-            result 1
-        },
-        {
-            phone 17056985688,
-            result 1
-        },
-        {
-            phone 17057159981,
-            result 1
-        },
-        {
-            phone 17058962222,
+            phone 17019842449,
             result 6
         },
         {
-            phone 17065275865,
+            phone 17031338777,
             result 1
         },
         {
-            phone 17065590122,
-            result 1
-        },
-        {
-            phone 17071821016,
+            phone 17050217411,
             result 2
         },
         {
-            phone 17071873241,
+            phone 17051020752,
             result 1
         },
         {
-            phone 17072051343,
-            result 4
-        },
-        {
-            phone 17072761118,
+            phone 17051074679,
             result 1
         },
         {
-            phone 17073103340,
+            phone 17051075080,
             result 1
         },
         {
-            phone 17073194438,
-            result 6
-        },
-        {
-            phone 17074170178,
-            result 6
-        },
-        {
-            phone 17074714951,
-            result 6
-        },
-        {
-            phone 17076020767,
+            phone 17051128859,
             result 2
         },
         {
-            phone 17076054295,
+            phone 17051175466,
+            result 1
+        },
+        {
+            phone 17051218734,
+            result 1
+        },
+        {
+            phone 17051256614,
             result 2
         },
         {
-            phone 17076289705,
+            phone 17051268456,
+            result 1
+        },
+        {
+            phone 17051277659,
+            result 1
+        },
+        {
+            phone 17051914666,
+            result 1
+        },
+        {
+            phone 17052513378,
+            result 1
+        },
+        {
+            phone 17053694444,
+            result 1
+        },
+        {
+            phone 17055660707,
+            result 3
+        },
+        {
+            phone 17055752927,
+            result 1
+        },
+        {
+            phone 17056888788,
+            result 1
+        },
+        {
+            phone 17057233999,
+            result 1
+        },
+        {
+            phone 17057239900,
+            result 1
+        },
+        {
+            phone 17057272073,
+            result 1
+        },
+        {
+            phone 17060322999,
+            result 1
+        },
+        {
+            phone 17067128999,
+            result 1
+        },
+        {
+            phone 17067302333,
+            result 1
+        },
+        {
+            phone 17070458486,
+            result 1
+        },
+        {
+            phone 17070924740,
+            result 1
+        },
+        {
+            phone 17071071058,
+            result 1
+        },
+        {
+            phone 17071865081,
+            result 1
+        },
+        {
+            phone 17072169178,
+            result 6
+        },
+        {
+            phone 17072797136,
+            result 1
+        },
+        {
+            phone 17072896815,
+            result 1
+        },
+        {
+            phone 17072898968,
+            result 1
+        },
+        {
+            phone 17073028428,
+            result 1
+        },
+        {
+            phone 17073029248,
+            result 1
+        },
+        {
+            phone 17073282498,
+            result 1
+        },
+        {
+            phone 17073541231,
             result 2
         },
         {
-            phone 17076470766,
+            phone 17073583588,
+            result 1
+        },
+        {
+            phone 17074953525,
+            result 1
+        },
+        {
+            phone 17076092619,
+            result 1
+        },
+        {
+            phone 17077785729,
+            result 1
+        },
+        {
+            phone 17077810687,
+            result 1
+        },
+        {
+            phone 17077927270,
+            result 1
+        },
+        {
+            phone 17079046546,
+            result 1
+        },
+        {
+            phone 17079085106,
             result 6
         },
         {
-            phone 17078978887,
+            phone 17079140500,
             result 1
         },
         {
-            phone 17079529941,
-            result 4
-        },
-        {
-            phone 17079606444,
-            result 1
-        },
-        {
-            phone 17079858666,
-            result 1
-        },
-        {
-            phone 17079883457,
-            result 1
-        },
-        {
-            phone 17079915526,
-            result 6
-        },
-        {
-            phone 17080627999,
-            result 1
-        },
-        {
-            phone 17080830483,
-            result 1
-        },
-        {
-            phone 17082715368,
-            result 6
-        },
-        {
-            phone 17083017177,
-            result 1
-        },
-        {
-            phone 17083732816,
+            phone 17079825581,
             result 2
         },
         {
-            phone 17085687888,
+            phone 17079926609,
             result 1
         },
         {
-            phone 17087878606,
+            phone 17079986092,
             result 1
         },
         {
-            phone 17087880490,
-            result 6
-        },
-        {
-            phone 17088409888,
-            result 6
-        },
-        {
-            phone 17088795888,
+            phone 17080643444,
             result 1
         },
         {
-            phone 17088831944,
-            result 4
-        },
-        {
-            phone 17089306888,
-            result 6
-        },
-        {
-            phone 17091317593,
-            result 6
-        },
-        {
-            phone 17092028680,
+            phone 17081101678,
             result 1
         },
         {
-            phone 17092146888,
-            result 6
-        },
-        {
-            phone 17092990137,
-            result 6
-        },
-        {
-            phone 17093092230,
-            result 6
-        },
-        {
-            phone 17093133137,
+            phone 17081371888,
             result 1
         },
         {
-            phone 17093179188,
+            phone 17082664717,
             result 1
         },
         {
-            phone 17093452945,
+            phone 17082828123,
             result 1
         },
         {
-            phone 17093895500,
+            phone 17083246880,
             result 1
         },
         {
-            phone 17096265114,
+            phone 17083376383,
             result 1
         },
         {
-            phone 17096667750,
+            phone 17083669151,
+            result 2
+        },
+        {
+            phone 17083854222,
+            result 1
+        },
+        {
+            phone 17084204888,
+            result 1
+        },
+        {
+            phone 17084227384,
+            result 1
+        },
+        {
+            phone 17084461913,
+            result 1
+        },
+        {
+            phone 17084810501,
+            result 1
+        },
+        {
+            phone 17084960299,
+            result 1
+        },
+        {
+            phone 17085058244,
+            result 1
+        },
+        {
+            phone 17085381888,
+            result 1
+        },
+        {
+            phone 17087247521,
+            result 1
+        },
+        {
+            phone 17087957067,
+            result 1
+        },
+        {
+            phone 17089365789,
+            result 2
+        },
+        {
+            phone 17089556048,
+            result 2
+        },
+        {
+            phone 17090053080,
+            result 1
+        },
+        {
+            phone 17090064316,
+            result 1
+        },
+        {
+            phone 17090091988,
+            result 1
+        },
+        {
+            phone 17090113253,
+            result 1
+        },
+        {
+            phone 17090149463,
+            result 1
+        },
+        {
+            phone 17090310705,
+            result 1
+        },
+        {
+            phone 17090887906,
+            result 1
+        },
+        {
+            phone 17092043097,
+            result 1
+        },
+        {
+            phone 17092161006,
+            result 1
+        },
+        {
+            phone 17092778871,
+            result 1
+        },
+        {
+            phone 17093061197,
+            result 1
+        },
+        {
+            phone 17093185601,
+            result 1
+        },
+        {
+            phone 17093190276,
+            result 1
+        },
+        {
+            phone 17093502121,
+            result 1
+        },
+        {
+            phone 17093817713,
+            result 1
+        },
+        {
+            phone 17094988999,
+            result 1
+        },
+        {
+            phone 17095051588,
+            result 1
+        },
+        {
+            phone 17095138135,
             result 5
         },
         {
-            phone 17096806377,
+            phone 17095366578,
+            result 1
+        },
+        {
+            phone 17095633908,
+            result 1
+        },
+        {
+            phone 17095635328,
+            result 1
+        },
+        {
+            phone 17095871557,
+            result 1
+        },
+        {
+            phone 17096193999,
+            result 1
+        },
+        {
+            phone 17096298832,
+            result 1
+        },
+        {
+            phone 17097635309,
+            result 6
+        },
+        {
+            phone 17097919884,
+            result 1
+        },
+        {
+            phone 17097944498,
+            result 1
+        },
+        {
+            phone 17098019429,
+            result 1
+        },
+        {
+            phone 17098158637,
+            result 1
+        },
+        {
+            phone 17099347333,
+            result 1
+        },
+        {
+            phone 17099662222,
+            result 1
+        },
+        {
+            phone 17099913966,
+            result 1
+        },
+        {
+            phone 17099958558,
+            result 1
+        },
+        {
+            phone 17700793920,
+            result 1
+        },
+        {
+            phone 17701261404,
+            result 1
+        },
+        {
+            phone 17701323987,
+            result 1
+        },
+        {
+            phone 17701497559,
+            result 1
+        },
+        {
+            phone 17701526678,
+            result 1
+        },
+        {
+            phone 17701581618,
+            result 1
+        },
+        {
+            phone 17701603970,
+            result 1
+        },
+        {
+            phone 17701685959,
+            result 1
+        },
+        {
+            phone 17701723884,
+            result 1
+        },
+        {
+            phone 17701763193,
+            result 6
+        },
+        {
+            phone 17701847102,
+            result 1
+        },
+        {
+            phone 17701890687,
+            result 1
+        },
+        {
+            phone 17702117372,
+            result 1
+        },
+        {
+            phone 17702140444,
+            result 1
+        },
+        {
+            phone 17702141226,
             result 2
         },
         {
-            phone 17097229384,
+            phone 17702169709,
             result 1
         },
         {
-            phone 17097465823,
+            phone 17702189790,
             result 1
         },
         {
-            phone 17097473888,
+            phone 17702198877,
             result 1
         },
         {
-            phone 17097573153,
+            phone 17702408082,
+            result 6
+        },
+        {
+            phone 17702516589,
             result 1
         },
         {
-            phone 17097640555,
-            result 4
-        },
-        {
-            phone 17098784789,
-            result 5
-        },
-        {
-            phone 17098820776,
+            phone 17702519750,
             result 1
         },
         {
-            phone 17099094733,
-            result 6
-        },
-        {
-            phone 17099345820,
-            result 6
-        },
-        {
-            phone 17099594706,
+            phone 17702742182,
             result 1
         },
         {
-            phone 17099957526,
+            phone 17702765656,
             result 1
         },
         {
-            phone 17702148188,
-            result 6
-        },
-        {
-            phone 17703178360,
-            result 6
-        },
-        {
-            phone 17703277386,
-            result 6
-        },
-        {
-            phone 17703766866,
-            result 6
-        },
-        {
-            phone 17704515558,
-            result 6
-        },
-        {
-            phone 17706160877,
-            result 6
-        },
-        {
-            phone 17706278198,
-            result 6
-        },
-        {
-            phone 17706715190,
-            result 6
-        },
-        {
-            phone 17707415788,
-            result 6
-        },
-        {
-            phone 17708366450,
+            phone 17702971586,
             result 1
         },
         {
-            phone 17709048806,
+            phone 17703135119,
             result 6
         },
         {
-            phone 17709561222,
-            result 6
-        },
-        {
-            phone 17709670805,
-            result 6
-        },
-        {
-            phone 17710300527,
-            result 6
-        },
-        {
-            phone 17712065368,
-            result 6
-        },
-        {
-            phone 17712381091,
-            result 6
-        },
-        {
-            phone 17712401919,
+            phone 17703158872,
             result 1
         },
         {
-            phone 17712478870,
-            result 6
-        },
-        {
-            phone 17715033463,
-            result 6
-        },
-        {
-            phone 17715159450,
-            result 6
-        },
-        {
-            phone 17715269955,
-            result 6
-        },
-        {
-            phone 17715368109,
-            result 6
-        },
-        {
-            phone 17715906112,
-            result 6
-        },
-        {
-            phone 17717907804,
-            result 6
-        },
-        {
-            phone 17718488616,
-            result 6
-        },
-        {
-            phone 17718606590,
-            result 6
-        },
-        {
-            phone 17719012987,
+            phone 17703175671,
             result 1
         },
         {
-            phone 17719375856,
-            result 6
-        },
-        {
-            phone 17719706039,
+            phone 17703203962,
             result 1
         },
         {
-            phone 17719718466,
-            result 6
-        },
-        {
-            phone 17719878262,
-            result 6
-        },
-        {
-            phone 17721398721,
-            result 6
-        },
-        {
-            phone 17724588220,
-            result 6
-        },
-        {
-            phone 17724931775,
-            result 6
-        },
-        {
-            phone 17726758985,
-            result 6
-        },
-        {
-            phone 17726781337,
-            result 6
-        },
-        {
-            phone 17727596706,
-            result 6
-        },
-        {
-            phone 17731145360,
-            result 6
-        },
-        {
-            phone 17731173827,
-            result 6
-        },
-        {
-            phone 17731711818,
-            result 6
-        },
-        {
-            phone 17731759711,
-            result 6
-        },
-        {
-            phone 17731759969,
-            result 6
-        },
-        {
-            phone 17731932950,
-            result 6
-        },
-        {
-            phone 17732025884,
-            result 6
-        },
-        {
-            phone 17732977122,
-            result 6
-        },
-        {
-            phone 17733229888,
-            result 6
-        },
-        {
-            phone 17733324422,
-            result 6
-        },
-        {
-            phone 17736277567,
-            result 6
-        },
-        {
-            phone 17736968708,
-            result 6
-        },
-        {
-            phone 17737280139,
-            result 6
-        },
-        {
-            phone 17738412650,
-            result 6
-        },
-        {
-            phone 17739165556,
-            result 6
-        },
-        {
-            phone 17739789094,
-            result 6
-        },
-        {
-            phone 17740413477,
-            result 6
-        },
-        {
-            phone 17740873314,
-            result 6
-        },
-        {
-            phone 17740874632,
-            result 6
-        },
-        {
-            phone 17743698719,
-            result 6
-        },
-        {
-            phone 17743775512,
-            result 6
-        },
-        {
-            phone 17744858344,
-            result 6
-        },
-        {
-            phone 17745256732,
-            result 6
-        },
-        {
-            phone 17751118122,
-            result 6
-        },
-        {
-            phone 17751279399,
-            result 6
-        },
-        {
-            phone 17751554568,
-            result 6
-        },
-        {
-            phone 17751799896,
-            result 6
-        },
-        {
-            phone 17751913105,
-            result 6
-        },
-        {
-            phone 17753068191,
-            result 6
-        },
-        {
-            phone 17753701110,
-            result 6
-        },
-        {
-            phone 17753734345,
-            result 6
-        },
-        {
-            phone 17753806466,
-            result 6
-        },
-        {
-            phone 17755095818,
-            result 6
-        },
-        {
-            phone 17755233372,
-            result 4
-        },
-        {
-            phone 17755337708,
-            result 6
-        },
-        {
-            phone 17755861665,
-            result 6
-        },
-        {
-            phone 17756014188,
-            result 6
-        },
-        {
-            phone 17756079786,
-            result 4
-        },
-        {
-            phone 17759515886,
-            result 6
-        },
-        {
-            phone 17760759073,
-            result 6
-        },
-        {
-            phone 17760786796,
-            result 6
-        },
-        {
-            phone 17762508520,
+            phone 17703300929,
             result 1
         },
         {
-            phone 17762890469,
-            result 6
-        },
-        {
-            phone 17763051816,
-            result 6
-        },
-        {
-            phone 17763526222,
+            phone 17703371535,
             result 1
         },
         {
-            phone 17763531528,
-            result 6
-        },
-        {
-            phone 17766382776,
-            result 6
-        },
-        {
-            phone 17768962939,
-            result 6
-        },
-        {
-            phone 17769038333,
-            result 6
-        },
-        {
-            phone 17770212870,
-            result 6
-        },
-        {
-            phone 17770521023,
-            result 6
-        },
-        {
-            phone 17771027010,
-            result 6
-        },
-        {
-            phone 17771116867,
-            result 6
-        },
-        {
-            phone 17771961602,
-            result 6
-        },
-        {
-            phone 17772628163,
-            result 6
-        },
-        {
-            phone 17774487877,
-            result 6
-        },
-        {
-            phone 17774541422,
-            result 6
-        },
-        {
-            phone 17778780885,
-            result 6
-        },
-        {
-            phone 17779311189,
-            result 6
-        },
-        {
-            phone 17779619337,
-            result 6
-        },
-        {
-            phone 17780588667,
-            result 6
-        },
-        {
-            phone 17780656637,
-            result 6
-        },
-        {
-            phone 17781662720,
-            result 6
-        },
-        {
-            phone 17787335991,
-            result 6
-        },
-        {
-            phone 17793518226,
-            result 6
-        },
-        {
-            phone 17793614114,
+            phone 17703373882,
             result 1
         },
         {
-            phone 17795565522,
+            phone 17703382394,
+            result 1
+        },
+        {
+            phone 17703464226,
+            result 1
+        },
+        {
+            phone 17703564883,
+            result 1
+        },
+        {
+            phone 17703600077,
+            result 1
+        },
+        {
+            phone 17703709339,
+            result 1
+        },
+        {
+            phone 17703734700,
+            result 1
+        },
+        {
+            phone 17703753302,
+            result 1
+        },
+        {
+            phone 17703787808,
+            result 1
+        },
+        {
+            phone 17703841772,
+            result 1
+        },
+        {
+            phone 17703917681,
+            result 1
+        },
+        {
+            phone 17703945609,
+            result 1
+        },
+        {
+            phone 17703959209,
             result 6
         },
         {
-            phone 17797798368,
+            phone 17703967588,
+            result 1
+        },
+        {
+            phone 17704870210,
+            result 1
+        },
+        {
+            phone 17704910080,
+            result 1
+        },
+        {
+            phone 17704968292,
+            result 1
+        },
+        {
+            phone 17704991969,
+            result 1
+        },
+        {
+            phone 17704995057,
             result 6
         },
         {
-            phone 17797835105,
+            phone 17704998776,
+            result 1
+        },
+        {
+            phone 17704999975,
             result 6
         },
         {
-            phone 17798612721,
+            phone 17705054299,
+            result 1
+        },
+        {
+            phone 17705122968,
+            result 1
+        },
+        {
+            phone 17705155630,
+            result 1
+        },
+        {
+            phone 17705247999,
+            result 1
+        },
+        {
+            phone 17705251399,
+            result 1
+        },
+        {
+            phone 17705264966,
+            result 1
+        },
+        {
+            phone 17705295900,
+            result 1
+        },
+        {
+            phone 17705381181,
+            result 1
+        },
+        {
+            phone 17705390056,
+            result 1
+        },
+        {
+            phone 17705464070,
+            result 1
+        },
+        {
+            phone 17705578979,
+            result 1
+        },
+        {
+            phone 17705728896,
+            result 1
+        },
+        {
+            phone 17705888068,
+            result 1
+        },
+        {
+            phone 17705985997,
+            result 1
+        },
+        {
+            phone 17706017659,
+            result 1
+        },
+        {
+            phone 17706173484,
+            result 1
+        },
+        {
+            phone 17706339298,
+            result 1
+        },
+        {
+            phone 17706342357,
+            result 1
+        },
+        {
+            phone 17706353681,
             result 6
         },
         {
-            phone 17799181101,
+            phone 17706354481,
+            result 1
+        },
+        {
+            phone 17706358268,
+            result 1
+        },
+        {
+            phone 17706469158,
+            result 1
+        },
+        {
+            phone 17706699158,
+            result 1
+        },
+        {
+            phone 17706748756,
+            result 1
+        },
+        {
+            phone 17706792055,
+            result 1
+        },
+        {
+            phone 17706893780,
+            result 1
+        },
+        {
+            phone 17707086780,
+            result 1
+        },
+        {
+            phone 17707214032,
+            result 1
+        },
+        {
+            phone 17707295709,
+            result 1
+        },
+        {
+            phone 17707408935,
+            result 1
+        },
+        {
+            phone 17707426173,
+            result 1
+        },
+        {
+            phone 17708398157,
+            result 1
+        },
+        {
+            phone 17708471008,
+            result 1
+        },
+        {
+            phone 17708533958,
+            result 1
+        },
+        {
+            phone 17708950333,
+            result 1
+        },
+        {
+            phone 17709014661,
+            result 1
+        },
+        {
+            phone 17709114321,
+            result 1
+        },
+        {
+            phone 17709163575,
+            result 1
+        },
+        {
+            phone 17709569392,
+            result 1
+        },
+        {
+            phone 17709571717,
+            result 1
+        },
+        {
+            phone 17709602388,
+            result 1
+        },
+        {
+            phone 17709615206,
+            result 1
+        },
+        {
+            phone 17709641300,
+            result 1
+        },
+        {
+            phone 17709818377,
+            result 1
+        },
+        {
+            phone 17710096083,
+            result 1
+        },
+        {
+            phone 17710629982,
+            result 1
+        },
+        {
+            phone 17710769697,
+            result 1
+        },
+        {
+            phone 17710850197,
+            result 1
+        },
+        {
+            phone 17711283717,
             result 6
         },
         {
-            phone 17799286760,
+            phone 17711370075,
+            result 1
+        },
+        {
+            phone 17711801230,
+            result 1
+        },
+        {
+            phone 17712019030,
+            result 1
+        },
+        {
+            phone 17712027792,
             result 6
+        },
+        {
+            phone 17712090501,
+            result 1
+        },
+        {
+            phone 17712123258,
+            result 1
+        },
+        {
+            phone 17712146389,
+            result 1
+        },
+        {
+            phone 17712166644,
+            result 6
+        },
+        {
+            phone 17712202151,
+            result 6
+        },
+        {
+            phone 17712235246,
+            result 1
+        },
+        {
+            phone 17712301981,
+            result 1
+        },
+        {
+            phone 17712305018,
+            result 1
+        },
+        {
+            phone 17712323552,
+            result 1
+        },
+        {
+            phone 17712381073,
+            result 1
+        },
+        {
+            phone 17712430309,
+            result 1
+        },
+        {
+            phone 17712433850,
+            result 1
+        },
+        {
+            phone 17712489907,
+            result 1
+        },
+        {
+            phone 17712543125,
+            result 1
+        },
+        {
+            phone 17712673098,
+            result 1
+        },
+        {
+            phone 17712691011,
+            result 6
+        },
+        {
+            phone 17712748830,
+            result 1
+        },
+        {
+            phone 17712808083,
+            result 1
+        },
+        {
+            phone 17712855329,
+            result 1
+        },
+        {
+            phone 17712979929,
+            result 1
+        },
+        {
+            phone 17713078123,
+            result 1
+        },
+        {
+            phone 17713101151,
+            result 1
+        },
+        {
+            phone 17713118174,
+            result 6
+        },
+        {
+            phone 17713145984,
+            result 6
+        },
+        {
+            phone 17713162817,
+            result 1
+        },
+        {
+            phone 17713322363,
+            result 1
+        },
+        {
+            phone 17713331644,
+            result 6
+        },
+        {
+            phone 17713532232,
+            result 1
+        },
+        {
+            phone 17713554626,
+            result 1
+        },
+        {
+            phone 17713566956,
+            result 6
+        },
+        {
+            phone 17713588807,
+            result 1
+        },
+        {
+            phone 17713985560,
+            result 1
+        },
+        {
+            phone 17714150333,
+            result 6
+        },
+        {
+            phone 17714233777,
+            result 1
+        },
+        {
+            phone 17714243168,
+            result 1
+        },
+        {
+            phone 17714419744,
+            result 1
+        },
+        {
+            phone 17714537763,
+            result 6
+        },
+        {
+            phone 17714838329,
+            result 1
+        },
+        {
+            phone 17714896660,
+            result 1
+        },
+        {
+            phone 17714908991,
+            result 1
+        },
+        {
+            phone 17715013688,
+            result 1
+        },
+        {
+            phone 17715021680,
+            result 1
+        },
+        {
+            phone 17715110577,
+            result 1
+        },
+        {
+            phone 17715156196,
+            result 1
+        },
+        {
+            phone 17715198125,
+            result 1
+        },
+        {
+            phone 17715211888,
+            result 1
+        },
+        {
+            phone 17715286552,
+            result 6
+        },
+        {
+            phone 17715467769,
+            result 1
+        },
+        {
+            phone 17715528111,
+            result 6
+        },
+        {
+            phone 17715613925,
+            result 1
+        },
+        {
+            phone 17715620687,
+            result 1
+        },
+        {
+            phone 17715636706,
+            result 1
+        },
+        {
+            phone 17715637743,
+            result 1
+        },
+        {
+            phone 17715676222,
+            result 1
+        },
+        {
+            phone 17715696962,
+            result 1
+        },
+        {
+            phone 17715869520,
+            result 6
+        },
+        {
+            phone 17715995937,
+            result 1
+        },
+        {
+            phone 17716123214,
+            result 1
+        },
+        {
+            phone 17716250006,
+            result 1
+        },
+        {
+            phone 17716279993,
+            result 1
+        },
+        {
+            phone 17716641845,
+            result 1
+        },
+        {
+            phone 17716788337,
+            result 1
+        },
+        {
+            phone 17716853261,
+            result 6
+        },
+        {
+            phone 17716853281,
+            result 6
+        },
+        {
+            phone 17716906636,
+            result 6
+        },
+        {
+            phone 17716919985,
+            result 1
+        },
+        {
+            phone 17716926656,
+            result 1
+        },
+        {
+            phone 17716935681,
+            result 1
+        },
+        {
+            phone 17716939867,
+            result 1
+        },
+        {
+            phone 17717114296,
+            result 1
+        },
+        {
+            phone 17717205803,
+            result 6
+        },
+        {
+            phone 17717229958,
+            result 1
+        },
+        {
+            phone 17717269886,
+            result 1
+        },
+        {
+            phone 17717283881,
+            result 1
+        },
+        {
+            phone 17717321899,
+            result 1
+        },
+        {
+            phone 17717383546,
+            result 1
+        },
+        {
+            phone 17717476106,
+            result 1
+        },
+        {
+            phone 17717541312,
+            result 1
+        },
+        {
+            phone 17717561184,
+            result 1
+        },
+        {
+            phone 17717615102,
+            result 1
+        },
+        {
+            phone 17717626087,
+            result 1
+        },
+        {
+            phone 17717642718,
+            result 1
+        },
+        {
+            phone 17717672616,
+            result 1
+        },
+        {
+            phone 17717721599,
+            result 1
+        },
+        {
+            phone 17717725979,
+            result 1
+        },
+        {
+            phone 17717749698,
+            result 1
+        },
+        {
+            phone 17717786787,
+            result 1
+        },
+        {
+            phone 17717881915,
+            result 2
+        },
+        {
+            phone 17717931862,
+            result 1
+        },
+        {
+            phone 17718114595,
+            result 1
+        },
+        {
+            phone 17718117951,
+            result 1
+        },
+        {
+            phone 17718207993,
+            result 1
+        },
+        {
+            phone 17718211149,
+            result 1
+        },
+        {
+            phone 17718395859,
+            result 6
+        },
+        {
+            phone 17718473201,
+            result 1
+        },
+        {
+            phone 17718537550,
+            result 1
+        },
+        {
+            phone 17719008705,
+            result 1
+        },
+        {
+            phone 17719011375,
+            result 1
+        },
+        {
+            phone 17719029628,
+            result 1
+        },
+        {
+            phone 17719055251,
+            result 1
+        },
+        {
+            phone 17719092366,
+            result 1
+        },
+        {
+            phone 17719111005,
+            result 1
+        },
+        {
+            phone 17719192022,
+            result 1
+        },
+        {
+            phone 17719216100,
+            result 1
+        },
+        {
+            phone 17719233332,
+            result 1
+        },
+        {
+            phone 17719329777,
+            result 1
+        },
+        {
+            phone 17719631312,
+            result 1
+        },
+        {
+            phone 17719657222,
+            result 1
+        },
+        {
+            phone 17719767950,
+            result 1
+        },
+        {
+            phone 17719813665,
+            result 1
+        },
+        {
+            phone 17719876928,
+            result 1
+        },
+        {
+            phone 17719966624,
+            result 1
+        },
+        {
+            phone 17720079556,
+            result 1
+        },
+        {
+            phone 17720467821,
+            result 1
+        },
+        {
+            phone 17720787556,
+            result 1
+        },
+        {
+            phone 17721020991,
+            result 1
+        },
+        {
+            phone 17721023212,
+            result 1
+        },
+        {
+            phone 17721025783,
+            result 1
+        },
+        {
+            phone 17721048867,
+            result 1
+        },
+        {
+            phone 17721085229,
+            result 1
+        },
+        {
+            phone 17721087288,
+            result 1
+        },
+        {
+            phone 17721122956,
+            result 1
+        },
+        {
+            phone 17721125377,
+            result 1
+        },
+        {
+            phone 17721150168,
+            result 1
+        },
+        {
+            phone 17721170221,
+            result 1
+        },
+        {
+            phone 17721182099,
+            result 1
+        },
+        {
+            phone 17721196757,
+            result 1
+        },
+        {
+            phone 17721216854,
+            result 1
+        },
+        {
+            phone 17721248489,
+            result 1
+        },
+        {
+            phone 17721294677,
+            result 2
+        },
+        {
+            phone 17721304567,
+            result 1
+        },
+        {
+            phone 17721325182,
+            result 1
+        },
+        {
+            phone 17721345791,
+            result 1
+        },
+        {
+            phone 17721419485,
+            result 1
+        },
+        {
+            phone 17721485908,
+            result 1
+        },
+        {
+            phone 17721563732,
+            result 6
+        },
+        {
+            phone 17721754469,
+            result 1
+        },
+        {
+            phone 17721762488,
+            result 1
+        },
+        {
+            phone 17721766661,
+            result 1
+        },
+        {
+            phone 17721768602,
+            result 1
+        },
+        {
+            phone 17721791936,
+            result 1
+        },
+        {
+            phone 17721825353,
+            result 1
+        },
+        {
+            phone 17721876206,
+            result 1
+        },
+        {
+            phone 17721994020,
+            result 1
+        },
+        {
+            phone 17722421690,
+            result 1
+        },
+        {
+            phone 17722446625,
+            result 6
+        },
+        {
+            phone 17722682419,
+            result 1
+        },
+        {
+            phone 17722872201,
+            result 1
+        },
+        {
+            phone 17722873817,
+            result 1
+        },
+        {
+            phone 17723029078,
+            result 1
+        },
+        {
+            phone 17723030369,
+            result 6
+        },
+        {
+            phone 17723261230,
+            result 1
+        },
+        {
+            phone 17723551621,
+            result 1
+        },
+        {
+            phone 17723737989,
+            result 1
+        },
+        {
+            phone 17725147463,
+            result 1
+        },
+        {
+            phone 17725255262,
+            result 1
+        },
+        {
+            phone 17725810600,
+            result 6
+        },
+        {
+            phone 17726298992,
+            result 1
+        },
+        {
+            phone 17726299177,
+            result 1
+        },
+        {
+            phone 17726733051,
+            result 1
+        },
+        {
+            phone 17726733550,
+            result 1
+        },
+        {
+            phone 17726767390,
+            result 1
+        },
+        {
+            phone 17726780781,
+            result 1
+        },
+        {
+            phone 17726782397,
+            result 1
+        },
+        {
+            phone 17726792782,
+            result 6
+        },
+        {
+            phone 17726837229,
+            result 1
+        },
+        {
+            phone 17727025899,
+            result 1
+        },
+        {
+            phone 17727317890,
+            result 1
+        },
+        {
+            phone 17727625445,
+            result 1
+        },
+        {
+            phone 17727927319,
+            result 1
+        },
+        {
+            phone 17728175331,
+            result 1
+        },
+        {
+            phone 17728326439,
+            result 1
+        },
+        {
+            phone 17729135636,
+            result 1
+        },
+        {
+            phone 17729177863,
+            result 1
+        },
+        {
+            phone 17729225766,
+            result 6
+        },
+        {
+            phone 17729376571,
+            result 1
+        },
+        {
+            phone 17729499851,
+            result 1
+        },
+        {
+            phone 17729651266,
+            result 1
+        },
+        {
+            phone 17729705276,
+            result 1
+        },
+        {
+            phone 17729749876,
+            result 1
+        },
+        {
+            phone 17729909731,
+            result 1
+        },
+        {
+            phone 17729972977,
+            result 1
+        },
+        {
+            phone 17729987820,
+            result 1
+        },
+        {
+            phone 17729992806,
+            result 1
+        },
+        {
+            phone 17730073717,
+            result 1
+        },
+        {
+            phone 17730114557,
+            result 1
+        },
+        {
+            phone 17730213260,
+            result 1
+        },
+        {
+            phone 17730283213,
+            result 1
+        },
+        {
+            phone 17730356276,
+            result 1
+        },
+        {
+            phone 17730409256,
+            result 1
+        },
+        {
+            phone 17730802197,
+            result 1
+        },
+        {
+            phone 17730852606,
+            result 1
+        },
+        {
+            phone 17731049981,
+            result 1
+        },
+        {
+            phone 17731051985,
+            result 1
+        },
+        {
+            phone 17731187064,
+            result 1
+        },
+        {
+            phone 17731232375,
+            result 6
+        },
+        {
+            phone 17731482998,
+            result 1
+        },
+        {
+            phone 17731485110,
+            result 6
+        },
+        {
+            phone 17731558880,
+            result 1
+        },
+        {
+            phone 17731571145,
+            result 6
+        },
+        {
+            phone 17731658671,
+            result 1
+        },
+        {
+            phone 17731688968,
+            result 1
+        },
+        {
+            phone 17731718028,
+            result 1
+        },
+        {
+            phone 17731730055,
+            result 1
+        },
+        {
+            phone 17731750909,
+            result 1
+        },
+        {
+            phone 17731762651,
+            result 1
+        },
+        {
+            phone 17731763017,
+            result 1
+        },
+        {
+            phone 17731787267,
+            result 1
+        },
+        {
+            phone 17731790288,
+            result 1
+        },
+        {
+            phone 17731865927,
+            result 1
+        },
+        {
+            phone 17731916404,
+            result 1
+        },
+        {
+            phone 17731986333,
+            result 1
+        },
+        {
+            phone 17732012285,
+            result 1
+        },
+        {
+            phone 17732026060,
+            result 1
+        },
+        {
+            phone 17732028814,
+            result 1
+        },
+        {
+            phone 17732030185,
+            result 1
+        },
+        {
+            phone 17732061268,
+            result 1
+        },
+        {
+            phone 17732095205,
+            result 1
+        },
+        {
+            phone 17732172088,
+            result 1
+        },
+        {
+            phone 17732173361,
+            result 1
+        },
+        {
+            phone 17732197079,
+            result 1
+        },
+        {
+            phone 17732308607,
+            result 1
+        },
+        {
+            phone 17732343484,
+            result 1
+        },
+        {
+            phone 17732359856,
+            result 1
+        },
+        {
+            phone 17732455222,
+            result 1
+        },
+        {
+            phone 17732502456,
+            result 1
+        },
+        {
+            phone 17732595753,
+            result 1
+        },
+        {
+            phone 17732706495,
+            result 1
+        },
+        {
+            phone 17732763777,
+            result 1
+        },
+        {
+            phone 17732816104,
+            result 1
+        },
+        {
+            phone 17732821972,
+            result 6
+        },
+        {
+            phone 17732828371,
+            result 1
+        },
+        {
+            phone 17732840714,
+            result 1
+        },
+        {
+            phone 17732875965,
+            result 6
+        },
+        {
+            phone 17732956895,
+            result 1
+        },
+        {
+            phone 17732976820,
+            result 6
+        },
+        {
+            phone 17732982868,
+            result 1
+        },
+        {
+            phone 17733076699,
+            result 1
+        },
+        {
+            phone 17733216267,
+            result 1
+        },
+        {
+            phone 17733225360,
+            result 1
+        },
+        {
+            phone 17733317095,
+            result 1
+        },
+        {
+            phone 17733321169,
+            result 1
+        },
+        {
+            phone 17733327280,
+            result 1
+        },
+        {
+            phone 17733327697,
+            result 1
+        },
+        {
+            phone 17733338289,
+            result 1
+        },
+        {
+            phone 17733338670,
+            result 1
+        },
+        {
+            phone 17733363037,
+            result 1
+        },
+        {
+            phone 17733382557,
+            result 1
+        },
+        {
+            phone 17733556578,
+            result 1
+        },
+        {
+            phone 17733559379,
+            result 1
+        },
+        {
+            phone 17733586368,
+            result 6
+        },
+        {
+            phone 17733608813,
+            result 1
+        },
+        {
+            phone 17733718877,
+            result 1
+        },
+        {
+            phone 17733722820,
+            result 1
+        },
+        {
+            phone 17733727085,
+            result 1
+        },
+        {
+            phone 17733732505,
+            result 1
+        },
+        {
+            phone 17733834893,
+            result 1
+        },
+        {
+            phone 17733840280,
+            result 1
+        },
+        {
+            phone 17733848267,
+            result 1
+        },
+        {
+            phone 17733892223,
+            result 1
+        },
+        {
+            phone 17733919423,
+            result 1
+        },
+        {
+            phone 17733961750,
+            result 1
+        },
+        {
+            phone 17733963922,
+            result 1
+        },
+        {
+            phone 17733966211,
+            result 1
+        },
+        {
+            phone 17734015892,
+            result 1
+        },
+        {
+            phone 17734078696,
+            result 6
+        },
+        {
+            phone 17734260751,
+            result 1
+        },
+        {
+            phone 17734268292,
+            result 1
+        },
+        {
+            phone 17734315678,
+            result 1
+        },
+        {
+            phone 17734373215,
+            result 1
+        },
+        {
+            phone 17734438301,
+            result 1
+        },
+        {
+            phone 17735908213,
+            result 1
+        },
+        {
+            phone 17735910289,
+            result 1
+        },
+        {
+            phone 17735912257,
+            result 1
+        },
+        {
+            phone 17735949899,
+            result 1
+        },
+        {
+            phone 17736101984,
+            result 1
+        },
+        {
+            phone 17736104299,
+            result 1
+        },
+        {
+            phone 17736108003,
+            result 1
+        },
+        {
+            phone 17736118892,
+            result 1
+        },
+        {
+            phone 17736174777,
+            result 1
+        },
+        {
+            phone 17736496751,
+            result 1
+        },
+        {
+            phone 17736529222,
+            result 1
+        },
+        {
+            phone 17736616668,
+            result 1
+        },
+        {
+            phone 17736730333,
+            result 1
+        },
+        {
+            phone 17736903555,
+            result 1
+        },
+        {
+            phone 17736917744,
+            result 1
+        },
+        {
+            phone 17736933901,
+            result 1
+        },
+        {
+            phone 17736936530,
+            result 1
+        },
+        {
+            phone 17736964495,
+            result 6
+        },
+        {
+            phone 17736968087,
+            result 1
+        },
+        {
+            phone 17736987760,
+            result 1
+        },
+        {
+            phone 17737056059,
+            result 1
+        },
+        {
+            phone 17737127830,
+            result 6
+        },
+        {
+            phone 17737191761,
+            result 1
+        },
+        {
+            phone 17737235883,
+            result 6
+        },
+        {
+            phone 17737253869,
+            result 6
+        },
+        {
+            phone 17737357822,
+            result 1
+        },
+        {
+            phone 17737376726,
+            result 6
+        },
+        {
+            phone 17737523599,
+            result 1
+        },
+        {
+            phone 17737535306,
+            result 1
+        },
+        {
+            phone 17737539866,
+            result 1
+        },
+        {
+            phone 17737591062,
+            result 1
+        },
+        {
+            phone 17737593366,
+            result 1
+        },
+        {
+            phone 17737604087,
+            result 1
+        },
+        {
+            phone 17737625499,
+            result 1
+        },
+        {
+            phone 17737699199,
+            result 1
+        },
+        {
+            phone 17737727278,
+            result 1
+        },
+        {
+            phone 17737796895,
+            result 1
+        },
+        {
+            phone 17737818402,
+            result 6
+        },
+        {
+            phone 17737827516,
+            result 1
+        },
+        {
+            phone 17737834888,
+            result 1
+        },
+        {
+            phone 17737861123,
+            result 1
+        },
+        {
+            phone 17737982290,
+            result 1
+        },
+        {
+            phone 17738871389,
+            result 1
+        },
+        {
+            phone 17739000229,
+            result 1
+        },
+        {
+            phone 17739000601,
+            result 1
+        },
+        {
+            phone 17739002555,
+            result 1
+        },
+        {
+            phone 17739009570,
+            result 6
+        },
+        {
+            phone 17739101171,
+            result 1
+        },
+        {
+            phone 17739143718,
+            result 6
+        },
+        {
+            phone 17739220332,
+            result 1
+        },
+        {
+            phone 17739250899,
+            result 1
+        },
+        {
+            phone 17739285065,
+            result 1
+        },
+        {
+            phone 17739376891,
+            result 1
+        },
+        {
+            phone 17739458811,
+            result 1
+        },
+        {
+            phone 17739491362,
+            result 1
+        },
+        {
+            phone 17739499900,
+            result 1
+        },
+        {
+            phone 17739506627,
+            result 1
+        },
+        {
+            phone 17739556716,
+            result 1
+        },
+        {
+            phone 17739727827,
+            result 1
+        },
+        {
+            phone 17739879461,
+            result 6
+        },
+        {
+            phone 17740466555,
+            result 1
+        },
+        {
+            phone 17740558898,
+            result 1
+        },
+        {
+            phone 17740804368,
+            result 1
+        },
+        {
+            phone 17740819835,
+            result 1
+        },
+        {
+            phone 17740828689,
+            result 1
+        },
+        {
+            phone 17740838876,
+            result 1
+        },
+        {
+            phone 17740850081,
+            result 1
+        },
+        {
+            phone 17741133069,
+            result 1
+        },
+        {
+            phone 17741755222,
+            result 1
+        },
+        {
+            phone 17742788085,
+            result 1
+        },
+        {
+            phone 17743016165,
+            result 6
+        },
+        {
+            phone 17743171817,
+            result 1
+        },
+        {
+            phone 17743621333,
+            result 1
+        },
+        {
+            phone 17743785816,
+            result 1
+        },
+        {
+            phone 17743796705,
+            result 1
+        },
+        {
+            phone 17743869937,
+            result 1
+        },
+        {
+            phone 17744570490,
+            result 6
+        },
+        {
+            phone 17744584545,
+            result 6
+        },
+        {
+            phone 17745587950,
+            result 1
+        },
+        {
+            phone 17745722223,
+            result 1
+        },
+        {
+            phone 17746092054,
+            result 1
+        },
+        {
+            phone 17746977789,
+            result 1
+        },
+        {
+            phone 17747705933,
+            result 1
+        },
+        {
+            phone 17749013203,
+            result 1
+        },
+        {
+            phone 17749070685,
+            result 1
+        },
+        {
+            phone 17749152905,
+            result 1
+        },
+        {
+            phone 17749194721,
+            result 1
+        },
+        {
+            phone 17749443311,
+            result 1
+        },
+        {
+            phone 17749449955,
+            result 1
+        },
+        {
+            phone 17749598199,
+            result 1
+        },
+        {
+            phone 17749799773,
+            result 1
+        },
+        {
+            phone 17749832789,
+            result 1
+        },
+        {
+            phone 17750259736,
+            result 1
+        },
+        {
+            phone 17751049727,
+            result 1
+        },
+        {
+            phone 17751189117,
+            result 1
+        },
+        {
+            phone 17751257107,
+            result 1
+        },
+        {
+            phone 17751308585,
+            result 1
+        },
+        {
+            phone 17751331083,
+            result 1
+        },
+        {
+            phone 17751356700,
+            result 6
+        },
+        {
+            phone 17751357266,
+            result 1
+        },
+        {
+            phone 17751363329,
+            result 1
+        },
+        {
+            phone 17751429990,
+            result 1
+        },
+        {
+            phone 17751521166,
+            result 6
+        },
+        {
+            phone 17751535565,
+            result 1
+        },
+        {
+            phone 17751689759,
+            result 1
+        },
+        {
+            phone 17751721011,
+            result 1
+        },
+        {
+            phone 17751808187,
+            result 6
+        },
+        {
+            phone 17751892857,
+            result 1
+        },
+        {
+            phone 17751900176,
+            result 1
+        },
+        {
+            phone 17751908033,
+            result 1
+        },
+        {
+            phone 17751916678,
+            result 1
+        },
+        {
+            phone 17751961918,
+            result 1
+        },
+        {
+            phone 17752341651,
+            result 6
+        },
+        {
+            phone 17752505052,
+            result 6
+        },
+        {
+            phone 17752521561,
+            result 1
+        },
+        {
+            phone 17752560500,
+            result 1
+        },
+        {
+            phone 17752707529,
+            result 1
+        },
+        {
+            phone 17752822060,
+            result 1
+        },
+        {
+            phone 17753046708,
+            result 1
+        },
+        {
+            phone 17753075199,
+            result 2
+        },
+        {
+            phone 17753392266,
+            result 1
+        },
+        {
+            phone 17753411515,
+            result 1
+        },
+        {
+            phone 17753436629,
+            result 1
+        },
+        {
+            phone 17753517272,
+            result 1
+        },
+        {
+            phone 17753609158,
+            result 1
+        },
+        {
+            phone 17753622915,
+            result 1
+        },
+        {
+            phone 17753686762,
+            result 6
+        },
+        {
+            phone 17753728607,
+            result 1
+        },
+        {
+            phone 17753835502,
+            result 1
+        },
+        {
+            phone 17753862123,
+            result 1
+        },
+        {
+            phone 17753864688,
+            result 1
+        },
+        {
+            phone 17753867137,
+            result 1
+        },
+        {
+            phone 17753887692,
+            result 1
+        },
+        {
+            phone 17753908333,
+            result 1
+        },
+        {
+            phone 17754038070,
+            result 1
+        },
+        {
+            phone 17754139129,
+            result 1
+        },
+        {
+            phone 17754163991,
+            result 1
+        },
+        {
+            phone 17754205402,
+            result 1
+        },
+        {
+            phone 17754873888,
+            result 1
+        },
+        {
+            phone 17755018225,
+            result 1
+        },
+        {
+            phone 17755035235,
+            result 1
+        },
+        {
+            phone 17755068999,
+            result 1
+        },
+        {
+            phone 17755091686,
+            result 1
+        },
+        {
+            phone 17755152141,
+            result 1
+        },
+        {
+            phone 17755221511,
+            result 1
+        },
+        {
+            phone 17755236366,
+            result 1
+        },
+        {
+            phone 17755263415,
+            result 1
+        },
+        {
+            phone 17755290909,
+            result 1
+        },
+        {
+            phone 17755468796,
+            result 1
+        },
+        {
+            phone 17755668826,
+            result 1
+        },
+        {
+            phone 17755687888,
+            result 1
+        },
+        {
+            phone 17755702551,
+            result 1
+        },
+        {
+            phone 17755712888,
+            result 1
+        },
+        {
+            phone 17755720381,
+            result 1
+        },
+        {
+            phone 17755757817,
+            result 1
+        },
+        {
+            phone 17755765952,
+            result 1
+        },
+        {
+            phone 17755774751,
+            result 1
+        },
+        {
+            phone 17755795316,
+            result 1
+        },
+        {
+            phone 17755856279,
+            result 1
+        },
+        {
+            phone 17755868023,
+            result 1
+        },
+        {
+            phone 17755870156,
+            result 1
+        },
+        {
+            phone 17755919924,
+            result 1
+        },
+        {
+            phone 17756062596,
+            result 1
+        },
+        {
+            phone 17756106815,
+            result 1
+        },
+        {
+            phone 17756117377,
+            result 1
+        },
+        {
+            phone 17756122797,
+            result 1
+        },
+        {
+            phone 17756136806,
+            result 1
+        },
+        {
+            phone 17756149902,
+            result 1
+        },
+        {
+            phone 17756405695,
+            result 1
+        },
+        {
+            phone 17756570177,
+            result 1
+        },
+        {
+            phone 17756705899,
+            result 1
+        },
+        {
+            phone 17756723067,
+            result 1
+        },
+        {
+            phone 17756723362,
+            result 1
+        },
+        {
+            phone 17756758360,
+            result 1
+        },
+        {
+            phone 17756836931,
+            result 1
+        },
+        {
+            phone 17756854491,
+            result 1
+        },
+        {
+            phone 17756855078,
+            result 1
+        },
+        {
+            phone 17756865366,
+            result 1
+        },
+        {
+            phone 17756932911,
+            result 1
+        },
+        {
+            phone 17757126312,
+            result 1
+        },
+        {
+            phone 17757188103,
+            result 1
+        },
+        {
+            phone 17757276676,
+            result 1
+        },
+        {
+            phone 17757288819,
+            result 1
+        },
+        {
+            phone 17757300655,
+            result 1
+        },
+        {
+            phone 17757421225,
+            result 1
+        },
+        {
+            phone 17757522022,
+            result 1
+        },
+        {
+            phone 17757856793,
+            result 1
+        },
+        {
+            phone 17757979917,
+            result 1
+        },
+        {
+            phone 17758030665,
+            result 1
+        },
+        {
+            phone 17758327289,
+            result 1
+        },
+        {
+            phone 17758691603,
+            result 1
+        },
+        {
+            phone 17759045358,
+            result 1
+        },
+        {
+            phone 17759098583,
+            result 1
+        },
+        {
+            phone 17759135959,
+            result 1
+        },
+        {
+            phone 17759533989,
+            result 1
+        },
+        {
+            phone 17759941013,
+            result 1
+        },
+        {
+            phone 17760217807,
+            result 6
+        },
+        {
+            phone 17760745292,
+            result 6
+        },
+        {
+            phone 17761500858,
+            result 1
+        },
+        {
+            phone 17761501888,
+            result 1
+        },
+        {
+            phone 17761526988,
+            result 1
+        },
+        {
+            phone 17761527887,
+            result 1
+        },
+        {
+            phone 17761582832,
+            result 1
+        },
+        {
+            phone 17761622722,
+            result 1
+        },
+        {
+            phone 17761657858,
+            result 6
+        },
+        {
+            phone 17761688388,
+            result 6
+        },
+        {
+            phone 17761721895,
+            result 1
+        },
+        {
+            phone 17761794172,
+            result 1
+        },
+        {
+            phone 17761802311,
+            result 1
+        },
+        {
+            phone 17761858004,
+            result 1
+        },
+        {
+            phone 17761863983,
+            result 1
+        },
+        {
+            phone 17761879297,
+            result 1
+        },
+        {
+            phone 17761935381,
+            result 6
+        },
+        {
+            phone 17761938089,
+            result 1
+        },
+        {
+            phone 17762007148,
+            result 1
+        },
+        {
+            phone 17762007522,
+            result 1
+        },
+        {
+            phone 17762044222,
+            result 1
+        },
+        {
+            phone 17762319789,
+            result 1
+        },
+        {
+            phone 17763206532,
+            result 1
+        },
+        {
+            phone 17763325226,
+            result 1
+        },
+        {
+            phone 17763515518,
+            result 1
+        },
+        {
+            phone 17763552766,
+            result 1
+        },
+        {
+            phone 17764046233,
+            result 1
+        },
+        {
+            phone 17764060824,
+            result 1
+        },
+        {
+            phone 17764284398,
+            result 1
+        },
+        {
+            phone 17764713656,
+            result 1
+        },
+        {
+            phone 17764753581,
+            result 1
+        },
+        {
+            phone 17764879842,
+            result 1
+        },
+        {
+            phone 17765119610,
+            result 1
+        },
+        {
+            phone 17765175668,
+            result 1
+        },
+        {
+            phone 17765193996,
+            result 1
+        },
+        {
+            phone 17765288669,
+            result 1
+        },
+        {
+            phone 17765293926,
+            result 1
+        },
+        {
+            phone 17765416691,
+            result 6
+        },
+        {
+            phone 17766028191,
+            result 1
+        },
+        {
+            phone 17766122132,
+            result 1
+        },
+        {
+            phone 17766149100,
+            result 1
+        },
+        {
+            phone 17766511566,
+            result 1
+        },
+        {
+            phone 17767102235,
+            result 1
+        },
+        {
+            phone 17767107819,
+            result 1
+        },
+        {
+            phone 17767824588,
+            result 1
+        },
+        {
+            phone 17767835789,
+            result 1
+        },
+        {
+            phone 17767872985,
+            result 1
+        },
+        {
+            phone 17767874161,
+            result 6
+        },
+        {
+            phone 17768059060,
+            result 6
+        },
+        {
+            phone 17768066565,
+            result 1
+        },
+        {
+            phone 17768095777,
+            result 1
+        },
+        {
+            phone 17768257777,
+            result 1
+        },
+        {
+            phone 17768279818,
+            result 1
+        },
+        {
+            phone 17768354453,
+            result 6
+        },
+        {
+            phone 17768386668,
+            result 1
+        },
+        {
+            phone 17768453966,
+            result 1
+        },
+        {
+            phone 17768527178,
+            result 1
+        },
+        {
+            phone 17768552858,
+            result 1
+        },
+        {
+            phone 17768566587,
+            result 1
+        },
+        {
+            phone 17768587381,
+            result 1
+        },
+        {
+            phone 17768602666,
+            result 1
+        },
+        {
+            phone 17768705399,
+            result 1
+        },
+        {
+            phone 17768751766,
+            result 1
+        },
+        {
+            phone 17768757376,
+            result 1
+        },
+        {
+            phone 17768795661,
+            result 1
+        },
+        {
+            phone 17768942298,
+            result 6
+        },
+        {
+            phone 17768959291,
+            result 1
+        },
+        {
+            phone 17768977880,
+            result 1
+        },
+        {
+            phone 17769108161,
+            result 1
+        },
+        {
+            phone 17769134333,
+            result 1
+        },
+        {
+            phone 17769143335,
+            result 1
+        },
+        {
+            phone 17769270062,
+            result 1
+        },
+        {
+            phone 17769876951,
+            result 1
+        },
+        {
+            phone 17770097851,
+            result 6
+        },
+        {
+            phone 17770136910,
+            result 1
+        },
+        {
+            phone 17770282711,
+            result 1
+        },
+        {
+            phone 17770512465,
+            result 1
+        },
+        {
+            phone 17771001166,
+            result 1
+        },
+        {
+            phone 17771037148,
+            result 1
+        },
+        {
+            phone 17771043434,
+            result 1
+        },
+        {
+            phone 17771118103,
+            result 1
+        },
+        {
+            phone 17771138288,
+            result 1
+        },
+        {
+            phone 17771592258,
+            result 1
+        },
+        {
+            phone 17771609875,
+            result 1
+        },
+        {
+            phone 17771640083,
+            result 1
+        },
+        {
+            phone 17771687059,
+            result 1
+        },
+        {
+            phone 17771788423,
+            result 1
+        },
+        {
+            phone 17771850957,
+            result 1
+        },
+        {
+            phone 17771870965,
+            result 1
+        },
+        {
+            phone 17771881966,
+            result 1
+        },
+        {
+            phone 17771982095,
+            result 1
+        },
+        {
+            phone 17772017550,
+            result 1
+        },
+        {
+            phone 17772240050,
+            result 1
+        },
+        {
+            phone 17772427040,
+            result 1
+        },
+        {
+            phone 17772444555,
+            result 1
+        },
+        {
+            phone 17772602557,
+            result 1
+        },
+        {
+            phone 17772644555,
+            result 1
+        },
+        {
+            phone 17772693224,
+            result 6
+        },
+        {
+            phone 17772807588,
+            result 1
+        },
+        {
+            phone 17772841168,
+            result 1
+        },
+        {
+            phone 17773628600,
+            result 1
+        },
+        {
+            phone 17773959566,
+            result 1
+        },
+        {
+            phone 17774361520,
+            result 1
+        },
+        {
+            phone 17774524208,
+            result 1
+        },
+        {
+            phone 17774604111,
+            result 6
+        },
+        {
+            phone 17774841139,
+            result 1
+        },
+        {
+            phone 17775064999,
+            result 1
+        },
+        {
+            phone 17775077635,
+            result 1
+        },
+        {
+            phone 17775080202,
+            result 1
+        },
+        {
+            phone 17775085870,
+            result 1
+        },
+        {
+            phone 17775256673,
+            result 1
+        },
+        {
+            phone 17775300650,
+            result 1
+        },
+        {
+            phone 17775387460,
+            result 1
+        },
+        {
+            phone 17775500907,
+            result 1
+        },
+        {
+            phone 17775585586,
+            result 1
+        },
+        {
+            phone 17775901995,
+            result 1
+        },
+        {
+            phone 17776079184,
+            result 1
+        },
+        {
+            phone 17776164577,
+            result 6
+        },
+        {
+            phone 17776638810,
+            result 1
+        },
+        {
+            phone 17776792082,
+            result 1
+        },
+        {
+            phone 17777405527,
+            result 1
+        },
+        {
+            phone 17777808954,
+            result 1
+        },
+        {
+            phone 17777836255,
+            result 1
+        },
+        {
+            phone 17777876237,
+            result 1
+        },
+        {
+            phone 17778082388,
+            result 1
+        },
+        {
+            phone 17778087998,
+            result 1
+        },
+        {
+            phone 17778132423,
+            result 1
+        },
+        {
+            phone 17778256721,
+            result 1
+        },
+        {
+            phone 17778713006,
+            result 6
+        },
+        {
+            phone 17778715598,
+            result 6
+        },
+        {
+            phone 17778767777,
+            result 1
+        },
+        {
+            phone 17778780951,
+            result 6
+        },
+        {
+            phone 17778781592,
+            result 1
+        },
+        {
+            phone 17778786000,
+            result 1
+        },
+        {
+            phone 17778847756,
+            result 1
+        },
+        {
+            phone 17778855595,
+            result 1
+        },
+        {
+            phone 17778860444,
+            result 1
+        },
+        {
+            phone 17778876251,
+            result 1
+        },
+        {
+            phone 17778886366,
+            result 1
+        },
+        {
+            phone 17779202157,
+            result 1
+        },
+        {
+            phone 17779519920,
+            result 1
+        },
+        {
+            phone 17780859918,
+            result 1
+        },
+        {
+            phone 17781447963,
+            result 1
+        },
+        {
+            phone 17781510041,
+            result 1
+        },
+        {
+            phone 17782076680,
+            result 1
+        },
+        {
+            phone 17782531284,
+            result 1
+        },
+        {
+            phone 17783055829,
+            result 1
+        },
+        {
+            phone 17783136819,
+            result 1
+        },
+        {
+            phone 17783270779,
+            result 1
+        },
+        {
+            phone 17783385379,
+            result 1
+        },
+        {
+            phone 17783568119,
+            result 1
+        },
+        {
+            phone 17783691239,
+            result 1
+        },
+        {
+            phone 17783824568,
+            result 1
+        },
+        {
+            phone 17783847336,
+            result 1
+        },
+        {
+            phone 17783855830,
+            result 1
+        },
+        {
+            phone 17783870395,
+            result 1
+        },
+        {
+            phone 17784235800,
+            result 1
+        },
+        {
+            phone 17784660009,
+            result 6
+        },
+        {
+            phone 17784758745,
+            result 1
+        },
+        {
+            phone 17784909126,
+            result 6
+        },
+        {
+            phone 17785130530,
+            result 6
+        },
+        {
+            phone 17785220235,
+            result 1
+        },
+        {
+            phone 17785802230,
+            result 1
+        },
+        {
+            phone 17786169991,
+            result 1
+        },
+        {
+            phone 17786206892,
+            result 1
+        },
+        {
+            phone 17786248834,
+            result 1
+        },
+        {
+            phone 17786518925,
+            result 1
+        },
+        {
+            phone 17786783398,
+            result 1
+        },
+        {
+            phone 17787199479,
+            result 1
+        },
+        {
+            phone 17787506602,
+            result 1
+        },
+        {
+            phone 17788149586,
+            result 1
+        },
+        {
+            phone 17788192268,
+            result 1
+        },
+        {
+            phone 17788192276,
+            result 1
+        },
+        {
+            phone 17788259789,
+            result 1
+        },
+        {
+            phone 17788302666,
+            result 1
+        },
+        {
+            phone 17788598725,
+            result 1
+        },
+        {
+            phone 17788768574,
+            result 6
+        },
+        {
+            phone 17788939826,
+            result 1
+        },
+        {
+            phone 17789166957,
+            result 1
+        },
+        {
+            phone 17789349505,
+            result 1
+        },
+        {
+            phone 17789570006,
+            result 1
+        },
+        {
+            phone 17789778099,
+            result 1
+        },
+        {
+            phone 17790007360,
+            result 1
+        },
+        {
+            phone 17790032255,
+            result 1
+        },
+        {
+            phone 17792100315,
+            result 1
+        },
+        {
+            phone 17792140044,
+            result 1
+        },
+        {
+            phone 17792179782,
+            result 6
+        },
+        {
+            phone 17792272320,
+            result 1
+        },
+        {
+            phone 17793313040,
+            result 1
+        },
+        {
+            phone 17793379598,
+            result 1
+        },
+        {
+            phone 17793501781,
+            result 1
+        },
+        {
+            phone 17793734048,
+            result 1
+        },
+        {
+            phone 17794394412,
+            result 1
+        },
+        {
+            phone 17794515663,
+            result 1
+        },
+        {
+            phone 17795213073,
+            result 1
+        },
+        {
+            phone 17795242428,
+            result 1
+        },
+        {
+            phone 17795309998,
+            result 1
+        },
+        {
+            phone 17795449400,
+            result 1
+        },
+        {
+            phone 17795523778,
+            result 6
+        },
+        {
+            phone 17796351465,
+            result 1
+        },
+        {
+            phone 17796485854,
+            result 1
+        },
+        {
+            phone 17796577032,
+            result 1
+        },
+        {
+            phone 17796616979,
+            result 1
+        },
+        {
+            phone 17796685201,
+            result 1
+        },
+        {
+            phone 17796832885,
+            result 1
+        },
+        {
+            phone 17796862886,
+            result 1
+        },
+        {
+            phone 17796890640,
+            result 1
+        },
+        {
+            phone 17796917256,
+            result 1
+        },
+        {
+            phone 17796959340,
+            result 1
+        },
+        {
+            phone 17797401116,
+            result 1
+        },
+        {
+            phone 17797752735,
+            result 1
+        },
+        {
+            phone 17797795616,
+            result 1
+        },
+        {
+            phone 17797825183,
+            result 1
+        },
+        {
+            phone 17798065989,
+            result 1
+        },
+        {
+            phone 17798348771,
+            result 1
+        },
+        {
+            phone 17798392289,
+            result 1
+        },
+        {
+            phone 17798516182,
+            result 1
+        },
+        {
+            phone 17798940885,
+            result 1
+        },
+        {
+            phone 17798968000,
+            result 1
+        },
+        {
+            phone 17798985551,
+            result 1
+        },
+        {
+            phone 17798999791,
+            result 1
+        },
+        {
+            phone 17799177699,
+            result 1
+        },
+        {
+            phone 17799188341,
+            result 6
+        },
+        {
+            phone 17799191117,
+            result 6
+        },
+        {
+            phone 17799251797,
+            result 6
+        },
+        {
+            phone 17799269656,
+            result 6
+        },
+        {
+            phone 17799276609,
+            result 6
+        },
+        {
+            phone 17799290161,
+            result 1
+        },
+        {
+            phone 17799325675,
+            result 1
+        },
+        {
+            phone 17799358501,
+            result 6
+        },
+        {
+            phone 17799487967,
+            result 6
+        },
+        {
+            phone 17799518500,
+            result 1
         }
     ]
 }
