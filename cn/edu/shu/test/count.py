@@ -64,6 +64,6 @@ def total(status):
 
 
 if __name__ == '__main__':
-    trip()
-    remove(1)
-    # total(7)
+    # trip()
+    # remove(1)
+    total(6)
